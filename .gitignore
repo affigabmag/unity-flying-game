@@ -10,6 +10,7 @@
 /[Bb]uilds/
 /[Bb]uilds/
 /_builds/
+/_build/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
